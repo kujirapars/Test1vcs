@@ -6,7 +6,7 @@ def generate_list():
 def printIt():
     print( generate_list() )
     
-def main():
+def main()
     printIt()
     
 if __name__ == '__main__':
